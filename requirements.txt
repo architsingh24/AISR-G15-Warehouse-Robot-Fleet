@@ -1,0 +1,6 @@
+# Core dependencies for AISR Pioneer P3-DX Fleet Simulation & Benchmarks
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Optional: Only needed if running with 3D CoppeliaSim simulator (--mode coppelia)
+coppeliasim-zmqremoteapi-client>=2.0.0
